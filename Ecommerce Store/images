@@ -1,0 +1,13 @@
+<script>start("d:\\Web Assignment1\\html\\assets\\images\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("brand1.png","brand1.png",0,2738,"2.7 kB",1742759746,"3/24/25, 12:55:46 AM");</script>
+<script>addRow("brand2.png","brand2.png",0,2077,"2.0 kB",1742759746,"3/24/25, 12:55:46 AM");</script>
+<script>addRow("brand3.png","brand3.png",0,3200,"3.1 kB",1742759746,"3/24/25, 12:55:46 AM");</script>
+<script>addRow("brand4.png","brand4.png",0,3309,"3.2 kB",1742759746,"3/24/25, 12:55:46 AM");</script>
+<script>addRow("brand5.png","brand5.png",0,1251,"1.2 kB",1742759747,"3/24/25, 12:55:47 AM");</script>
+<script>addRow("homess.png","homess.png",0,480765,"469 kB",1742840442,"3/24/25, 11:20:42 PM");</script>
+<script>addRow("login.jpg","login.jpg",0,445982,"436 kB",1742731921,"3/23/25, 5:12:01 PM");</script>
+<script>addRow("logo-transparent.png","logo-transparent.png",0,17010,"16.6 kB",1742733755,"3/23/25, 5:42:35 PM");</script>
+<script>addRow("logo.png","logo.png",0,14865,"14.5 kB",1742734881,"3/23/25, 6:01:21 PM");</script>
+<script>addRow("myPIC.jpg","myPIC.jpg",0,51046,"49.8 kB",1742779008,"3/24/25, 6:16:48 AM");</script>
+<script>addRow("selling-products20.jpg","selling-products20.jpg",0,187183,"183 kB",1742759749,"3/24/25, 12:55:49 AM");</script>

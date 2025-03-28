@@ -1,0 +1,38 @@
+<!-- products.html -->
+<div id="productsPage" class="container mt-3 animate__animated animate__fadeIn">
+  <div class="row mb-4">
+      <div class="col-md-6 mx-auto">
+          <input type="text" class="form-control shadow-sm" id="searchInput" placeholder="Search products...">
+      </div>
+  </div>
+
+  <ul class="nav nav-tabs mb-4" id="categoryTabs" role="tablist">
+      <li class="nav-item">
+          <a class="nav-link active fw-bold" id="all-tab" data-bs-toggle="tab" href="#all" role="tab">All</a>
+      </li>
+      <li class="nav-item">
+          <a class="nav-link fw-bold" id="electronics-tab" data-bs-toggle="tab" href="#electronics" role="tab">Electronics</a>
+      </li>
+      <li class="nav-item">
+          <a class="nav-link fw-bold" id="jewelery-tab" data-bs-toggle="tab" href="#jewelery" role="tab">Fashion</a>
+      </li>
+      <li class="nav-item">
+          <a class="nav-link fw-bold" id="sports-tab" data-bs-toggle="tab" href="#sports" role="tab">Sports</a>
+      </li>
+  </ul>
+
+  <div class="tab-content" id="categoryTabContent">
+      <div class="tab-pane fade show active" id="all" role="tabpanel">
+          <div class="row row-cols-1 row-cols-md-3 g-4" id="allProducts"></div>
+      </div>
+      <div class="tab-pane fade" id="electronics" role="tabpanel">
+          <div class="row row-cols-1 row-cols-md-3 g-4"></div>
+      </div>
+      <div class="tab-pane fade" id="jewelery" role="tabpanel">
+          <div class="row row-cols-1 row-cols-md-3 g-4"></div>
+      </div>
+      <div class="tab-pane fade" id="sports" role="tabpanel">
+          <div class="row row-cols-1 row-cols-md-3 g-4"></div>
+      </div>
+  </div>
+</div>
